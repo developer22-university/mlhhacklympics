@@ -1,2 +1,3 @@
 # mlhhacklympics
-   hardware prototype
+  ### hardware prototype
+athletestimer.study
