@@ -1,2 +1,2 @@
 # mlhhacklympics
-   harware hack
+   hardware prototype
