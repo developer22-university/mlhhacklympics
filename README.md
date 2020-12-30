@@ -1,5 +1,5 @@
 # mlhhacklympics
-  ### hardware prototype
+  ##### hardware prototype
   
   ### Inspiration
 Timing is an important concern for sprinters as well as long distance runners.You've always wanted to be Usain Bolt or Mo Farah in terms of Speed or stamina. So we've decided to built an automatic stop timer for athletes that can be used to check their timings
