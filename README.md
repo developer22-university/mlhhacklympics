@@ -1,5 +1,5 @@
 # mlhhacklympics
-## Available live at: athletestimer.study
+## Available live at: [link]athletestimer.study
   ##### hardware prototype
   
   ### Inspiration
