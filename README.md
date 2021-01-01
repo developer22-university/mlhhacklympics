@@ -1,4 +1,5 @@
 # mlhhacklympics
+Available live at: ###### athletestimer.study
   ##### hardware prototype
   
   ### Inspiration
@@ -26,4 +27,4 @@ Make custom switches for start,stop and reset
 Add Options for Split timer
 Integrate a lap counter
 
-###### athletestimer.study
+
